@@ -1,0 +1,11 @@
+{
+  "name": "imandra-test-model",
+  "version": "1.0.0",
+  "description": "Test Model",
+  "main": "module.iml",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sergey Grigorchuk",
+  "license": "ISC"
+}
